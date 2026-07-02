@@ -3,7 +3,7 @@
 Developer assignment submission for Namoza — client: OrthoNow, a chain of 9 orthopaedic clinics across Bengaluru, Hyderabad, and Chennai. Three deliverables: a GTM event schema, a consultation landing page, and a CRM integration design.
 
 ## Candidate
-* **Name:** Harry
+* **Name:** Harish khan
 
 ## Assignment Overview
 
